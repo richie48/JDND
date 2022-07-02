@@ -1,5 +1,5 @@
 # JDND
-This is a **DEPRECATED** repository for the Java Developer Nanodegree (ND035) program. The current repository has been split into the separate repositories associated with the individual courses in the Nanodegree. Therefore, go to the suitable new repository, as mentioned below:
+This is a repository for the Java Developer Nanodegree (ND035) program. The current repository has been split into the separate repositories associated with the individual courses in the Nanodegree. Therefore, go to the suitable new repository, as mentioned below:
 
 ## If you are enrolled in ND035 v1:
 
